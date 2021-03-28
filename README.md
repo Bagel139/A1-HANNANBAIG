@@ -54,14 +54,6 @@ My favourite sport is Basketball. I have been playing for a Basketball club call
 
 
 
-
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
 <h1 style="font-family:verdana;">INTERESTS IN IT</h1>
 <h2 style="font-size:15px">-What is your interest in IT?</h2> 
 
@@ -115,9 +107,7 @@ The job is Information technology support technician at the Coffs Harbour Christ
 
 Job advertisement link:
 
-<a 
-
-href="url">https://www.seek.com.au/job/51713502type=promoted#searchRequestToken=3184b274-8151-4540-abe8-05a1e1f293bd</a> 
+<a href="url">https://www.seek.com.au/job/51713502type=promoted#searchRequestToken=3184b274-8151-4540-abe8-05a1e1f293bd</a> 
 
 </p>
 
