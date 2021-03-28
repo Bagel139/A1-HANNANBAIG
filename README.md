@@ -13,8 +13,7 @@ h1   {text-align:center;">Centered Heading;}
 </body>
 </html>
 </style>
-</head>
-<body>
+
 
 
 
@@ -51,19 +50,12 @@ I speak English and Urdu.
 My favourite sport is Basketball. I have been playing for a Basketball club called Balwyn Blazers since 2015. I also follow the NBA (National Basketball Association) and support the Oklahoma City Thunder.
 </p>
 
-</body>
-
-</html>
-
 <!DOCTYPE html>
 <html>
 <body>
 
 <h3 style="color:purple;">Picture:</h3>
 <img src="h_b.jpg" width="220" height="300" class="center">
-
-</body>
-</html>
 
 
 
@@ -294,7 +286,7 @@ If the project is successful, the outcome would be that people will have an easi
 
 </p>
 
-<h1 style="font-family:verdana;">BIBLIOGRAPHY</h1>
+<h1 style="font-family:verdana;">REFERENCES</h1>
 
 <p>
 
